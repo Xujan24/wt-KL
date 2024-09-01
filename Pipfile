@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+numpy = "*"
+pandas = "*"
+torch = "*"
+sentence-transformers = "*"
+pymed = "*"
+transformers = "*"
+sentencepiece = "*"
+nltk = "*"
+protobuf = "*"
+cupy-cuda12x = "*"
+owlready2 = "*"
+ordered-set = "*"
+matplotlib = "*"
+python-levenshtein = "*"
+datasets = "*"
+accelerate = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

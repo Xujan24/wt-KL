@@ -1,0 +1,1159 @@
+code,code_desc,p1,p2,p3,p4,p5
+A000,Cholera due to Vibrio cholerae 01 biovar cholerae,,Cholera,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A001,Cholera due to Vibrio cholerae 01 biovar eltor,,Cholera,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A009,Cholera unspecified,,Cholera,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0100,Typhoid fever unspecified,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0101,Typhoid meningitis,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0102,Typhoid fever with heart involvement,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0103,Typhoid pneumonia,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0104,Typhoid arthritis,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0105,Typhoid osteomyelitis,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0109,Typhoid fever with other complications,Typhoid fever,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A010,Typhoid fever,,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A011,Paratyphoid fever A,,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A012,Paratyphoid fever B,,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A013,Paratyphoid fever C,,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A014,Paratyphoid fever unspecified,,Typhoid and paratyphoid fevers,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A020,Salmonella enteritis,,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A021,Salmonella sepsis,,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0220,Localized salmonella infection unspecified,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0221,Salmonella meningitis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0222,Salmonella pneumonia,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0223,Salmonella arthritis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0224,Salmonella osteomyelitis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0225,Salmonella pyelonephritis,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0229,Salmonella with other localized infection,Localized salmonella infections,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A022,Localized salmonella infections,,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A028,Other specified salmonella infections,,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A029,Salmonella infection unspecified,,Other salmonella infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A030,Shigellosis due to Shigella dysenteriae,,Shigellosis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A031,Shigellosis due to Shigella flexneri,,Shigellosis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A032,Shigellosis due to Shigella boydii,,Shigellosis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A033,Shigellosis due to Shigella sonnei,,Shigellosis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A038,Other shigellosis,,Shigellosis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A039,Shigellosis unspecified,,Shigellosis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A040,Enteropathogenic Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A041,Enterotoxigenic Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A042,Enteroinvasive Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A043,Enterohemorrhagic Escherichia coli infection,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A044,Other intestinal Escherichia coli infections,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A045,Campylobacter enteritis,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A046,Enteritis due to Yersinia enterocolitica,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0471,Enterocolitis due to Clostridium difficile recurrent,Enterocolitis due to Clostridium difficile,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0472,Enterocolitis due to Clostridium difficile not specified as recurrent,Enterocolitis due to Clostridium difficile,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A047,Enterocolitis due to Clostridium difficile,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A048,Other specified bacterial intestinal infections,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A049,Bacterial intestinal infection unspecified,,Other bacterial intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A050,Foodborne staphylococcal intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A051,Botulism food poisoning,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A052,Foodborne Clostridium perfringens [Clostridium welchii] intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A053,Foodborne Vibrio parahaemolyticus intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A054,Foodborne Bacillus cereus intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A055,Foodborne Vibrio vulnificus intoxication,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A058,Other specified bacterial foodborne intoxications,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A059,Bacterial foodborne intoxication unspecified,,Other bacterial foodborne intoxications not elsewhere classified,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A060,Acute amebic dysentery,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A061,Chronic intestinal amebiasis,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A062,Amebic nondysenteric colitis,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A063,Ameboma of intestine,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A064,Amebic liver abscess,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A065,Amebic lung abscess,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A066,Amebic brain abscess,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A067,Cutaneous amebiasis,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0681,Amebic cystitis,Amebic infection of other sites,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0682,Other amebic genitourinary infections,Amebic infection of other sites,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0689,Other amebic infections,Amebic infection of other sites,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A068,Amebic infection of other sites,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A069,Amebiasis unspecified,,Amoebiasis,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A070,Balantidiasis,,Other protozoal intestinal diseases,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A071,Giardiasis [lambliasis],,Other protozoal intestinal diseases,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A072,Cryptosporidiosis,,Other protozoal intestinal diseases,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A073,Isosporiasis,,Other protozoal intestinal diseases,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A074,Cyclosporiasis,,Other protozoal intestinal diseases,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A078,Other specified protozoal intestinal diseases,,Other protozoal intestinal diseases,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A079,Protozoal intestinal disease unspecified,,Other protozoal intestinal diseases,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A080,Rotaviral enteritis,,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0811,Acute gastroenteropathy due to Norwalk agent,Acute gastroenteropathy due to Norwalk agent and other small round viruses,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0819,Acute gastroenteropathy due to other small round viruses,Acute gastroenteropathy due to Norwalk agent and other small round viruses,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A081,Acute gastroenteropathy due to Norwalk agent and other small round viruses,,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A082,Adenoviral enteritis,,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0831,Calicivirus enteritis,Other viral enteritis,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0832,Astrovirus enteritis,Other viral enteritis,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A0839,Other viral enteritis,Other viral enteritis,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A083,Other viral enteritis,,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A084,Viral intestinal infection unspecified,,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A088,Other specified intestinal infections,,Viral and other specified intestinal infections,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A09,Other gastroenteritis and colitis of infectious and unspecified origin,,Other gastroenteritis and colitis of infectious and unspecified origin,Intestinal infectious diseases,Certain infectious and parasitic diseases,root
+A150,Tuberculosis of lung,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis,Certain infectious and parasitic diseases,root
+A154,Tuberculosis of intrathoracic lymph nodes,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis,Certain infectious and parasitic diseases,root
+A155,Tuberculosis of larynx trachea and bronchus,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis,Certain infectious and parasitic diseases,root
+A156,Tuberculous pleurisy,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis,Certain infectious and parasitic diseases,root
+A157,Primary respiratory tuberculosis,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis,Certain infectious and parasitic diseases,root
+A158,Other respiratory tuberculosis,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis,Certain infectious and parasitic diseases,root
+A159,Respiratory tuberculosis unspecified,,Respiratory tuberculosis bacteriologically and histologically confirmed,Tuberculosis,Certain infectious and parasitic diseases,root
+A170,Tuberculous meningitis,,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A171,Meningeal tuberculoma,,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A1781,Tuberculoma of brain and spinal cord,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A1782,Tuberculous meningoencephalitis,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A1783,Tuberculous neuritis,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A1789,Other tuberculosis of nervous system,Other tuberculosis of nervous system,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A178,Other tuberculosis of nervous system,,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A179,Tuberculosis of nervous system unspecified,,Tuberculosis of nervous system,Tuberculosis,Certain infectious and parasitic diseases,root
+A1801,Tuberculosis of spine,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1802,Tuberculous arthritis of other joints,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1803,Tuberculosis of other bones,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1809,Other musculoskeletal tuberculosis,Tuberculosis of bones and joints,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A180,Tuberculosis of bones and joints,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1810,Tuberculosis of genitourinary system unspecified,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1811,Tuberculosis of kidney and ureter,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1812,Tuberculosis of bladder,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1813,Tuberculosis of other urinary organs,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1814,Tuberculosis of prostate,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1815,Tuberculosis of other male genital organs,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1816,Tuberculosis of cervix,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1817,Tuberculous female pelvic inflammatory disease,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1818,Tuberculosis of other female genital organs,Tuberculosis of genitourinary system,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A181,Tuberculosis of genitourinary system,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A182,Tuberculous peripheral lymphadenopathy,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1831,Tuberculous peritonitis,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1832,Tuberculous enteritis,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1839,Retroperitoneal tuberculosis,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A183,Tuberculosis of intestines peritoneum and mesenteric glands,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A184,Tuberculosis of skin and subcutaneous tissue,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1850,Tuberculosis of eye unspecified,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1851,Tuberculous episcleritis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1852,Tuberculous keratitis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1853,Tuberculous chorioretinitis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1854,Tuberculous iridocyclitis,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1859,Other tuberculosis of eye,Tuberculosis of eye,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A185,Tuberculosis of eye,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A186,Tuberculosis of (inner) (middle) ear,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A187,Tuberculosis of adrenal glands,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1881,Tuberculosis of thyroid gland,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1882,Tuberculosis of other endocrine glands,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1883,Tuberculosis of digestive tract organs not elsewhere classified,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1884,Tuberculosis of heart,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1885,Tuberculosis of spleen,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A1889,Tuberculosis of other sites,Tuberculosis of other specified organs,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A188,Tuberculosis of other specified organs,,Tuberculosis of other organs,Tuberculosis,Certain infectious and parasitic diseases,root
+A190,Acute miliary tuberculosis of a single specified site,,Miliary tuberculosis,Tuberculosis,Certain infectious and parasitic diseases,root
+A191,Acute miliary tuberculosis of multiple sites,,Miliary tuberculosis,Tuberculosis,Certain infectious and parasitic diseases,root
+A192,Acute miliary tuberculosis unspecified,,Miliary tuberculosis,Tuberculosis,Certain infectious and parasitic diseases,root
+A198,Other miliary tuberculosis,,Miliary tuberculosis,Tuberculosis,Certain infectious and parasitic diseases,root
+A199,Miliary tuberculosis unspecified,,Miliary tuberculosis,Tuberculosis,Certain infectious and parasitic diseases,root
+A200,Bubonic plague,,Plague,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A201,Cellulocutaneous plague,,Plague,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A202,Pneumonic plague,,Plague,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A203,Plague meningitis,,Plague,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A207,Septicemic plague,,Plague,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A208,Other forms of plague,,Plague,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A209,Plague unspecified,,Plague,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A210,Ulceroglandular tularemia,,Tularaemia,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A211,Oculoglandular tularemia,,Tularaemia,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A212,Pulmonary tularemia,,Tularaemia,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A213,Gastrointestinal tularemia,,Tularaemia,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A217,Generalized tularemia,,Tularaemia,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A218,Other forms of tularemia,,Tularaemia,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A219,Tularemia unspecified,,Tularaemia,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A220,Cutaneous anthrax,,Anthrax,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A221,Pulmonary anthrax,,Anthrax,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A222,Gastrointestinal anthrax,,Anthrax,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A227,Anthrax sepsis,,Anthrax,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A228,Other forms of anthrax,,Anthrax,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A229,Anthrax unspecified,,Anthrax,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A230,Brucellosis due to Brucella melitensis,,Brucellosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A231,Brucellosis due to Brucella abortus,,Brucellosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A232,Brucellosis due to Brucella suis,,Brucellosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A233,Brucellosis due to Brucella canis,,Brucellosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A238,Other brucellosis,,Brucellosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A239,Brucellosis unspecified,,Brucellosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A240,Glanders,,Glanders and melioidosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A241,Acute and fulminating melioidosis,,Glanders and melioidosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A242,Subacute and chronic melioidosis,,Glanders and melioidosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A243,Other melioidosis,,Glanders and melioidosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A249,Melioidosis unspecified,,Glanders and melioidosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A250,Spirillosis,,Rat-bite fevers,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A251,Streptobacillosis,,Rat-bite fevers,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A259,Rat-bite fever unspecified,,Rat-bite fevers,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A260,Cutaneous erysipeloid,,Erysipeloid,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A267,Erysipelothrix sepsis,,Erysipeloid,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A268,Other forms of erysipeloid,,Erysipeloid,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A269,Erysipeloid unspecified,,Erysipeloid,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A270,Leptospirosis icterohemorrhagica,,Leptospirosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A2781,Aseptic meningitis in leptospirosis,Other forms of leptospirosis,Leptospirosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A2789,Other forms of leptospirosis,Other forms of leptospirosis,Leptospirosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A278,Other forms of leptospirosis,,Leptospirosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A279,Leptospirosis unspecified,,Leptospirosis,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A280,Pasteurellosis,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A281,Cat-scratch disease,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A282,Extraintestinal yersiniosis,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A288,Other specified zoonotic bacterial diseases not elsewhere classified,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A289,Zoonotic bacterial disease unspecified,,Other zoonotic bacterial diseases not elsewhere classified,Certain zoonotic bacterial diseases,Certain infectious and parasitic diseases,root
+A300,Indeterminate leprosy,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A301,Tuberculoid leprosy,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A302,Borderline tuberculoid leprosy,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A303,Borderline leprosy,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A304,Borderline lepromatous leprosy,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A305,Lepromatous leprosy,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A308,Other forms of leprosy,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A309,Leprosy unspecified,,Leprosy [Hansen disease],Other bacterial diseases,Certain infectious and parasitic diseases,root
+A310,Pulmonary mycobacterial infection,,Infection due to other mycobacteria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A311,Cutaneous mycobacterial infection,,Infection due to other mycobacteria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A312,Disseminated mycobacterium avium-intracellulare complex (DMAC),,Infection due to other mycobacteria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A318,Other mycobacterial infections,,Infection due to other mycobacteria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A319,Mycobacterial infection unspecified,,Infection due to other mycobacteria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A320,Cutaneous listeriosis,,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3211,Listerial meningitis,Listerial meningitis and meningoencephalitis,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3212,Listerial meningoencephalitis,Listerial meningitis and meningoencephalitis,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A321,Listerial meningitis and meningoencephalitis,,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A327,Listerial sepsis,,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3281,Oculoglandular listeriosis,Other forms of listeriosis,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3282,Listerial endocarditis,Other forms of listeriosis,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3289,Other forms of listeriosis,Other forms of listeriosis,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A328,Other forms of listeriosis,,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A329,Listeriosis unspecified,,Listeriosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A33,Tetanus neonatorum,,Tetanus neonatorum,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A34,Obstetrical tetanus,,Obstetrical tetanus,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A35,Other tetanus,,Other tetanus,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A360,Pharyngeal diphtheria,,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A361,Nasopharyngeal diphtheria,,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A362,Laryngeal diphtheria,,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A363,Cutaneous diphtheria,,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3681,Diphtheritic cardiomyopathy,Other diphtheria,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3682,Diphtheritic radiculomyelitis,Other diphtheria,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3683,Diphtheritic polyneuritis,Other diphtheria,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3684,Diphtheritic tubulo-interstitial nephropathy,Other diphtheria,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3685,Diphtheritic cystitis,Other diphtheria,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3686,Diphtheritic conjunctivitis,Other diphtheria,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3689,Other diphtheritic complications,Other diphtheria,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A368,Other diphtheria,,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A369,Diphtheria unspecified,,Diphtheria,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3700,Whooping cough due to Bordetella pertussis without pneumonia,Whooping cough due to Bordetella pertussis,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3701,Whooping cough due to Bordetella pertussis with pneumonia,Whooping cough due to Bordetella pertussis,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A370,Whooping cough due to Bordetella pertussis,,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3710,Whooping cough due to Bordetella parapertussis without pneumonia,Whooping cough due to Bordetella parapertussis,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3711,Whooping cough due to Bordetella parapertussis with pneumonia,Whooping cough due to Bordetella parapertussis,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A371,Whooping cough due to Bordetella parapertussis,,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3780,Whooping cough due to other Bordetella species without pneumonia,Whooping cough due to other Bordetella species,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3781,Whooping cough due to other Bordetella species with pneumonia,Whooping cough due to other Bordetella species,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A378,Whooping cough due to other Bordetella species,,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3790,Whooping cough unspecified species without pneumonia,Whooping cough unspecified species,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3791,Whooping cough unspecified species with pneumonia,Whooping cough unspecified species,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A379,Whooping cough unspecified species,,Whooping cough,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A380,Scarlet fever with otitis media,,Scarlet fever,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A381,Scarlet fever with myocarditis,,Scarlet fever,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A388,Scarlet fever with other complications,,Scarlet fever,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A389,Scarlet fever uncomplicated,,Scarlet fever,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A390,Meningococcal meningitis,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A391,Waterhouse-Friderichsen syndrome,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A392,Acute meningococcemia,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A393,Chronic meningococcemia,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A394,Meningococcemia unspecified,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3950,Meningococcal carditis unspecified,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3951,Meningococcal endocarditis,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3952,Meningococcal myocarditis,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3953,Meningococcal pericarditis,Meningococcal heart disease,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A395,Meningococcal heart disease,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3981,Meningococcal encephalitis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3982,Meningococcal retrobulbar neuritis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3983,Meningococcal arthritis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3984,Postmeningococcal arthritis,Other meningococcal infections,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A3989,Other meningococcal infections,Other meningococcal infections,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A398,Other meningococcal infections,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A399,Meningococcal infection unspecified,,Meningococcal infection,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A400,Sepsis due to streptococcus group A,,Streptococcal sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A401,Sepsis due to streptococcus group B,,Streptococcal sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A403,Sepsis due to Streptococcus pneumoniae,,Streptococcal sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A408,Other streptococcal sepsis,,Streptococcal sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A409,Streptococcal sepsis unspecified,,Streptococcal sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus,Sepsis due to Staphylococcus aureus,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,Sepsis due to Staphylococcus aureus,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A410,Sepsis due to Staphylococcus aureus,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A411,Sepsis due to other specified staphylococcus,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A412,Sepsis due to unspecified staphylococcus,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A413,Sepsis due to Hemophilus influenzae,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A414,Sepsis due to anaerobes,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4150,Gram-negative sepsis unspecified,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4151,Sepsis due to Escherichia coli [E. coli],Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4152,Sepsis due to Pseudomonas,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4153,Sepsis due to Serratia,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4159,Other Gram-negative sepsis,Sepsis due to other Gram-negative organisms,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A415,Sepsis due to other Gram-negative organisms,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4181,Sepsis due to Enterococcus,Other specified sepsis,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4189,Other specified sepsis,Other specified sepsis,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A418,Other specified sepsis,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A419,Sepsis unspecified organism,,Other sepsis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A420,Pulmonary actinomycosis,,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A421,Abdominal actinomycosis,,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A422,Cervicofacial actinomycosis,,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A427,Actinomycotic sepsis,,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4281,Actinomycotic meningitis,Other forms of actinomycosis,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4282,Actinomycotic encephalitis,Other forms of actinomycosis,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4289,Other forms of actinomycosis,Other forms of actinomycosis,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A428,Other forms of actinomycosis,,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A429,Actinomycosis unspecified,,Actinomycosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A430,Pulmonary nocardiosis,,Nocardiosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A431,Cutaneous nocardiosis,,Nocardiosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A438,Other forms of nocardiosis,,Nocardiosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A439,Nocardiosis unspecified,,Nocardiosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A440,Systemic bartonellosis,,Bartonellosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A441,Cutaneous and mucocutaneous bartonellosis,,Bartonellosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A448,Other forms of bartonellosis,,Bartonellosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A449,Bartonellosis unspecified,,Bartonellosis,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A46,Erysipelas,,Erysipelas,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A480,Gas gangrene,,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A481,Legionnaires' disease,,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A482,Nonpneumonic Legionnaires' disease [Pontiac fever],,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A483,Toxic shock syndrome,,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A484,Brazilian purpuric fever,,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4851,Infant botulism,Other specified botulism,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4852,Wound botulism,Other specified botulism,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A485,Other specified botulism,,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A488,Other specified bacterial diseases,,Other bacterial diseases not elsewhere classified,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4901,Methicillin susceptible Staphylococcus aureus infection unspecified site,Staphylococcal infection unspecified site,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A4902,Methicillin resistant Staphylococcus aureus infection unspecified site,Staphylococcal infection unspecified site,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A490,Staphylococcal infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A491,Streptococcal infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A492,Hemophilus influenzae infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A493,Mycoplasma infection unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A498,Other bacterial infections of unspecified site,,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A499,Bacterial infection unspecified,,Bacterial infection of unspecified site,Other bacterial diseases,Certain infectious and parasitic diseases,root
+A5001,Early congenital syphilitic oculopathy,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5002,Early congenital syphilitic osteochondropathy,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5003,Early congenital syphilitic pharyngitis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5004,Early congenital syphilitic pneumonia,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5005,Early congenital syphilitic rhinitis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5006,Early cutaneous congenital syphilis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5007,Early mucocutaneous congenital syphilis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5008,Early visceral congenital syphilis,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5009,Other early congenital syphilis symptomatic,Early congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A500,Early congenital syphilis symptomatic,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A501,Early congenital syphilis latent,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A502,Early congenital syphilis unspecified,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5030,Late congenital syphilitic oculopathy unspecified,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5031,Late congenital syphilitic interstitial keratitis,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5032,Late congenital syphilitic chorioretinitis,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5039,Other late congenital syphilitic oculopathy,Late congenital syphilitic oculopathy,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A503,Late congenital syphilitic oculopathy,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5040,Late congenital neurosyphilis unspecified,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5041,Late congenital syphilitic meningitis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5042,Late congenital syphilitic encephalitis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5043,Late congenital syphilitic polyneuropathy,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5044,Late congenital syphilitic optic nerve atrophy,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5045,Juvenile general paresis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5049,Other late congenital neurosyphilis,Late congenital neurosyphilis [juvenile neurosyphilis],Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A504,Late congenital neurosyphilis [juvenile neurosyphilis],,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5051,Clutton's joints,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5052,Hutchinson's teeth,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5053,Hutchinson's triad,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5054,Late congenital cardiovascular syphilis,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5055,Late congenital syphilitic arthropathy,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5056,Late congenital syphilitic osteochondropathy,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5057,Syphilitic saddle nose,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5059,Other late congenital syphilis symptomatic,Other late congenital syphilis symptomatic,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A505,Other late congenital syphilis symptomatic,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A506,Late congenital syphilis latent,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A507,Late congenital syphilis unspecified,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A509,Congenital syphilis unspecified,,Congenital syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A510,Primary genital syphilis,,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A511,Primary anal syphilis,,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A512,Primary syphilis of other sites,,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5131,Condyloma latum,Secondary syphilis of skin and mucous membranes,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5132,Syphilitic alopecia,Secondary syphilis of skin and mucous membranes,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5139,Other secondary syphilis of skin,Secondary syphilis of skin and mucous membranes,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A513,Secondary syphilis of skin and mucous membranes,,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5141,Secondary syphilitic meningitis,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5142,Secondary syphilitic female pelvic disease,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5143,Secondary syphilitic oculopathy,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5144,Secondary syphilitic nephritis,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5145,Secondary syphilitic hepatitis,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5146,Secondary syphilitic osteopathy,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5149,Other secondary syphilitic conditions,Other secondary syphilis,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A514,Other secondary syphilis,,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A515,Early syphilis latent,,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A519,Early syphilis unspecified,,Early syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5200,Cardiovascular syphilis unspecified,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5201,Syphilitic aneurysm of aorta,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5202,Syphilitic aortitis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5203,Syphilitic endocarditis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5204,Syphilitic cerebral arteritis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5205,Other cerebrovascular syphilis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5206,Other syphilitic heart involvement,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5209,Other cardiovascular syphilis,Cardiovascular and cerebrovascular syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A520,Cardiovascular and cerebrovascular syphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5210,Symptomatic neurosyphilis unspecified,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5211,Tabes dorsalis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5212,Other cerebrospinal syphilis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5213,Late syphilitic meningitis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5214,Late syphilitic encephalitis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5215,Late syphilitic neuropathy,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5216,Charcôt's arthropathy (tabetic),Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5217,General paresis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5219,Other symptomatic neurosyphilis,Symptomatic neurosyphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A521,Symptomatic neurosyphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A522,Asymptomatic neurosyphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A523,Neurosyphilis unspecified,,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5271,Late syphilitic oculopathy,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5272,Syphilis of lung and bronchus,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5273,Symptomatic late syphilis of other respiratory organs,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5274,Syphilis of liver and other viscera,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5275,Syphilis of kidney and ureter,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5276,Other genitourinary symptomatic late syphilis,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5277,Syphilis of bone and joint,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5278,Syphilis of other musculoskeletal tissue,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5279,Other symptomatic late syphilis,Other symptomatic late syphilis,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A527,Other symptomatic late syphilis,,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A528,Late syphilis latent,,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A529,Late syphilis unspecified,,Late syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A530,Latent syphilis unspecified as early or late,,Other and unspecified syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A539,Syphilis unspecified,,Other and unspecified syphilis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5400,Gonococcal infection of lower genitourinary tract unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5401,Gonococcal cystitis and urethritis unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5402,Gonococcal vulvovaginitis unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5403,Gonococcal cervicitis unspecified,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5409,Other gonococcal infection of lower genitourinary tract,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A540,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5421,Gonococcal infection of kidney and ureter,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5422,Gonococcal prostatitis,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5423,Gonococcal infection of other male genital organs,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5424,Gonococcal female pelvic inflammatory disease,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5429,Other gonococcal genitourinary infections,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A542,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5430,Gonococcal infection of eye unspecified,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5431,Gonococcal conjunctivitis,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5432,Gonococcal iridocyclitis,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5433,Gonococcal keratitis,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5439,Other gonococcal eye infection,Gonococcal infection of eye,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A543,Gonococcal infection of eye,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5440,Gonococcal infection of musculoskeletal system unspecified,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5441,Gonococcal spondylopathy,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5442,Gonococcal arthritis,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5443,Gonococcal osteomyelitis,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5449,Gonococcal infection of other musculoskeletal tissue,Gonococcal infection of musculoskeletal system,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A544,Gonococcal infection of musculoskeletal system,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A545,Gonococcal pharyngitis,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A546,Gonococcal infection of anus and rectum,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5481,Gonococcal meningitis,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5482,Gonococcal brain abscess,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5483,Gonococcal heart infection,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5484,Gonococcal pneumonia,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5485,Gonococcal peritonitis,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5486,Gonococcal sepsis,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5489,Other gonococcal infections,Other gonococcal infections,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A548,Other gonococcal infections,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A549,Gonococcal infection unspecified,,Gonococcal infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A55,Chlamydial lymphogranuloma (venereum),,Chlamydial lymphogranuloma (venereum),Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5600,Chlamydial infection of lower genitourinary tract unspecified,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5601,Chlamydial cystitis and urethritis,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5602,Chlamydial vulvovaginitis,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5609,Other chlamydial infection of lower genitourinary tract,Chlamydial infection of lower genitourinary tract,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A560,Chlamydial infection of lower genitourinary tract,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5611,Chlamydial female pelvic inflammatory disease,Chlamydial infection of pelviperitoneum and other genitourinary organs,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5619,Other chlamydial genitourinary infection,Chlamydial infection of pelviperitoneum and other genitourinary organs,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A561,Chlamydial infection of pelviperitoneum and other genitourinary organs,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A562,Chlamydial infection of genitourinary tract unspecified,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A563,Chlamydial infection of anus and rectum,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A564,Chlamydial infection of pharynx,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A568,Sexually transmitted chlamydial infection of other sites,,Other sexually transmitted chlamydial diseases,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A57,Chancroid,,Chancroid,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A58,Granuloma inguinale,,Granuloma inguinale,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5900,Urogenital trichomoniasis unspecified,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5901,Trichomonal vulvovaginitis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5902,Trichomonal prostatitis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5903,Trichomonal cystitis and urethritis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A5909,Other urogenital trichomoniasis,Urogenital trichomoniasis,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A590,Urogenital trichomoniasis,,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A598,Trichomoniasis of other sites,,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A599,Trichomoniasis unspecified,,Trichomoniasis,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A6000,Herpesviral infection of urogenital system unspecified,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A6001,Herpesviral infection of penis,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A6002,Herpesviral infection of other male genital organs,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A6003,Herpesviral cervicitis,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A6004,Herpesviral vulvovaginitis,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A6009,Herpesviral infection of other urogenital tract,Herpesviral infection of genitalia and urogenital tract,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A600,Herpesviral infection of genitalia and urogenital tract,,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A601,Herpesviral infection of perianal skin and rectum,,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A609,Anogenital herpesviral infection unspecified,,Anogenital herpesviral [herpes simplex] infection,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A630,Anogenital (venereal) warts,,Other predominantly sexually transmitted diseases not elsewhere classified,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A638,Other specified predominantly sexually transmitted diseases,,Other predominantly sexually transmitted diseases not elsewhere classified,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A64,Unspecified sexually transmitted disease,,Unspecified sexually transmitted disease,Infections with a predominantly sexual mode of transmission,Certain infectious and parasitic diseases,root
+A65,Nonvenereal syphilis,,Nonvenereal syphilis,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A660,Initial lesions of yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A661,Multiple papillomata and wet crab yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A662,Other early skin lesions of yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A663,Hyperkeratosis of yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A664,Gummata and ulcers of yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A665,Gangosa,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A666,Bone and joint lesions of yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A667,Other manifestations of yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A668,Latent yaws,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A669,Yaws unspecified,,Yaws,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A670,Primary lesions of pinta,,Pinta [carate],Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A671,Intermediate lesions of pinta,,Pinta [carate],Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A672,Late lesions of pinta,,Pinta [carate],Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A673,Mixed lesions of pinta,,Pinta [carate],Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A679,Pinta unspecified,,Pinta [carate],Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A680,Louse-borne relapsing fever,,Relapsing fevers,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A681,Tick-borne relapsing fever,,Relapsing fevers,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A689,Relapsing fever unspecified,,Relapsing fevers,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A690,Necrotizing ulcerative stomatitis,,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A691,Other Vincent's infections,,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A6920,Lyme disease unspecified,Lyme disease,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A6921,Meningitis due to Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A6922,Other neurologic disorders in Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A6923,Arthritis due to Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A6929,Other conditions associated with Lyme disease,Lyme disease,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A692,Lyme disease,,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A698,Other specified spirochetal infections,,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A699,Spirochetal infection unspecified,,Other spirochaetal infections,Other spirochetal diseases,Certain infectious and parasitic diseases,root
+A70,Chlamydia psittaci infection,,Chlamydia psittaci infection,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A710,Initial stage of trachoma,,Trachoma,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A711,Active stage of trachoma,,Trachoma,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A719,Trachoma unspecified,,Trachoma,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A740,Chlamydial conjunctivitis,,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A7481,Chlamydial peritonitis,Other chlamydial diseases,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A7489,Other chlamydial diseases,Other chlamydial diseases,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A748,Other chlamydial diseases,,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A749,Chlamydial infection unspecified,,Other diseases caused by chlamydiae,Other diseases caused by chlamydiae,Certain infectious and parasitic diseases,root
+A750,Epidemic louse-borne typhus fever due to Rickettsia prowazekii,,Typhus fever,Rickettsioses,Certain infectious and parasitic diseases,root
+A751,Recrudescent typhus [Brill's disease],,Typhus fever,Rickettsioses,Certain infectious and parasitic diseases,root
+A752,Typhus fever due to Rickettsia typhi,,Typhus fever,Rickettsioses,Certain infectious and parasitic diseases,root
+A753,Typhus fever due to Rickettsia tsutsugamushi,,Typhus fever,Rickettsioses,Certain infectious and parasitic diseases,root
+A759,Typhus fever unspecified,,Typhus fever,Rickettsioses,Certain infectious and parasitic diseases,root
+A770,Spotted fever due to Rickettsia rickettsii,,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A771,Spotted fever due to Rickettsia conorii,,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A772,Spotted fever due to Rickettsia siberica,,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A773,Spotted fever due to Rickettsia australis,,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A7740,Ehrlichiosis unspecified,Ehrlichiosis,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A7741,Ehrlichiosis chafeensis [E. chafeensis],Ehrlichiosis,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A7749,Other ehrlichiosis,Ehrlichiosis,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A774,Ehrlichiosis,,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A778,Other spotted fevers,,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A779,Spotted fever unspecified,,Spotted fever [tick-borne rickettsioses],Rickettsioses,Certain infectious and parasitic diseases,root
+A78,Q fever,,Q fever,Rickettsioses,Certain infectious and parasitic diseases,root
+A790,Trench fever,,Other rickettsioses,Rickettsioses,Certain infectious and parasitic diseases,root
+A791,Rickettsialpox due to Rickettsia akari,,Other rickettsioses,Rickettsioses,Certain infectious and parasitic diseases,root
+A7981,Rickettsiosis due to Ehrlichia sennetsu,Other specified rickettsioses,Other rickettsioses,Rickettsioses,Certain infectious and parasitic diseases,root
+A7982,Anaplasmosis [A. phagocytophilum],Other specified rickettsioses,Other rickettsioses,Rickettsioses,Certain infectious and parasitic diseases,root
+A7989,Other specified rickettsioses,Other specified rickettsioses,Other rickettsioses,Rickettsioses,Certain infectious and parasitic diseases,root
+A798,Other specified rickettsioses,,Other rickettsioses,Rickettsioses,Certain infectious and parasitic diseases,root
+A799,Rickettsiosis unspecified,,Other rickettsioses,Rickettsioses,Certain infectious and parasitic diseases,root
+A800,Acute paralytic poliomyelitis vaccine-associated,,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A801,Acute paralytic poliomyelitis wild virus imported,,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A802,Acute paralytic poliomyelitis wild virus indigenous,,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8030,Acute paralytic poliomyelitis unspecified,Acute paralytic poliomyelitis other and unspecified,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8039,Other acute paralytic poliomyelitis,Acute paralytic poliomyelitis other and unspecified,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A803,Acute paralytic poliomyelitis other and unspecified,,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A804,Acute nonparalytic poliomyelitis,,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A809,Acute poliomyelitis unspecified,,Acute poliomyelitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8100,Creutzfeldt-Jakob disease unspecified,Creutzfeldt-Jakob disease,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8101,Variant Creutzfeldt-Jakob disease,Creutzfeldt-Jakob disease,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8109,Other Creutzfeldt-Jakob disease,Creutzfeldt-Jakob disease,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A810,Creutzfeldt-Jakob disease,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A811,Subacute sclerosing panencephalitis,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A812,Progressive multifocal leukoencephalopathy,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8181,Kuru,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8182,Gerstmann-Sträussler-Scheinker syndrome,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8183,Fatal familial insomnia,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8189,Other atypical virus infections of central nervous system,Other atypical virus infections of central nervous system,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A818,Other atypical virus infections of central nervous system,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A819,Atypical virus infection of central nervous system unspecified,,Atypical virus infections of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A820,Sylvatic rabies,,Rabies,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A821,Urban rabies,,Rabies,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A829,Rabies unspecified,,Rabies,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A830,Japanese encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A831,Western equine encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A832,Eastern equine encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A833,St Louis encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A834,Australian encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A835,California encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A836,Rocio virus disease,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A838,Other mosquito-borne viral encephalitis,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A839,Mosquito-borne viral encephalitis unspecified,,Mosquito-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis],,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A841,Central European tick-borne encephalitis,,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8481,Powassan virus disease,Other tick-borne viral encephalitis,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A8489,Other tick-borne viral encephalitis,Other tick-borne viral encephalitis,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A848,Other tick-borne viral encephalitis,,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A849,Tick-borne viral encephalitis unspecified,,Tick-borne viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A850,Enteroviral encephalitis,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A851,Adenoviral encephalitis,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A852,Arthropod-borne viral encephalitis unspecified,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A858,Other specified viral encephalitis,,Other viral encephalitis not elsewhere classified,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A86,Unspecified viral encephalitis,,Unspecified viral encephalitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A870,Enteroviral meningitis,,Viral meningitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A871,Adenoviral meningitis,,Viral meningitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A872,Lymphocytic choriomeningitis,,Viral meningitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A878,Other viral meningitis,,Viral meningitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A879,Viral meningitis unspecified,,Viral meningitis,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A880,Enteroviral exanthematous fever [Boston exanthem],,Other viral infections of central nervous system not elsewhere classified,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A881,Epidemic vertigo,,Other viral infections of central nervous system not elsewhere classified,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A888,Other specified viral infections of central nervous system,,Other viral infections of central nervous system not elsewhere classified,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A89,Unspecified viral infection of central nervous system,,Unspecified viral infection of central nervous system,Viral and prion infections of the central nervous system,Certain infectious and parasitic diseases,root
+A920,Chikungunya virus disease,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A921,O'nyong-nyong fever,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A922,Venezuelan equine fever,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A9230,West Nile virus infection unspecified,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A9231,West Nile virus infection with encephalitis,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A9232,West Nile virus infection with other neurologic manifestation,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A9239,West Nile virus infection with other complications,West Nile virus infection,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A923,West Nile virus infection,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A924,Rift Valley fever,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A925,Zika virus disease,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A928,Other specified mosquito-borne viral fevers,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A929,Mosquito-borne viral fever unspecified,,Other mosquito-borne viral fevers,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A930,Oropouche virus disease,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A931,Sandfly fever,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A932,Colorado tick fever,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A938,Other specified arthropod-borne viral fevers,,Other arthropod-borne viral fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A94,Unspecified arthropod-borne viral fever,,Unspecified arthropod-borne viral fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A950,Sylvatic yellow fever,,Yellow fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A951,Urban yellow fever,,Yellow fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A959,Yellow fever unspecified,,Yellow fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A960,Junin hemorrhagic fever,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A961,Machupo hemorrhagic fever,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A962,Lassa fever,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A968,Other arenaviral hemorrhagic fevers,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A969,Arenaviral hemorrhagic fever unspecified,,Arenaviral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A980,Crimean-Congo hemorrhagic fever,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A981,Omsk hemorrhagic fever,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A982,Kyasanur Forest disease,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A983,Marburg virus disease,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A984,Ebola virus disease,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A985,Hemorrhagic fever with renal syndrome,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A988,Other specified viral hemorrhagic fevers,,Other viral haemorrhagic fevers not elsewhere classified,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+A99,Unspecified viral haemorrhagic fever,,Unspecified viral haemorrhagic fever,Arthropod-borne viral fevers and viral hemorrhagic fevers,Certain infectious and parasitic diseases,root
+B000,Eczema herpeticum,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B001,Herpesviral vesicular dermatitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B002,Herpesviral gingivostomatitis and pharyngotonsillitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B003,Herpesviral meningitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B004,Herpesviral encephalitis,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0050,Herpesviral ocular disease unspecified,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0051,Herpesviral iridocyclitis,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0052,Herpesviral keratitis,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0053,Herpesviral conjunctivitis,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0059,Other herpesviral disease of eye,Herpesviral ocular disease,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B005,Herpesviral ocular disease,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B007,Disseminated herpesviral disease,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0081,Herpesviral hepatitis,Other forms of herpesviral infections,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0082,Herpes simplex myelitis,Other forms of herpesviral infections,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0089,Other herpesviral infection,Other forms of herpesviral infections,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B008,Other forms of herpesviral infections,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B009,Herpesviral infection unspecified,,Herpesviral [herpes simplex] infections,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B010,Varicella meningitis,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0111,Varicella encephalitis and encephalomyelitis,Varicella encephalitis myelitis and encephalomyelitis,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0112,Varicella myelitis,Varicella encephalitis myelitis and encephalomyelitis,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B011,Varicella encephalitis myelitis and encephalomyelitis,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B012,Varicella pneumonia,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0181,Varicella keratitis,Varicella with other complications,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0189,Other varicella complications,Varicella with other complications,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B018,Varicella with other complications,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B019,Varicella without complication,,Varicella [chickenpox],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B020,Zoster encephalitis,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B021,Zoster meningitis,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0221,Postherpetic geniculate ganglionitis,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0222,Postherpetic trigeminal neuralgia,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0223,Postherpetic polyneuropathy,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0224,Postherpetic myelitis,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0229,Other postherpetic nervous system involvement,Zoster with other nervous system involvement,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B022,Zoster with other nervous system involvement,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0230,Zoster ocular disease unspecified,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0231,Zoster conjunctivitis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0232,Zoster iridocyclitis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0233,Zoster keratitis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0234,Zoster scleritis,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0239,Other herpes zoster eye disease,Zoster ocular disease,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B023,Zoster ocular disease,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B027,Disseminated zoster,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B028,Zoster with other complications,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B029,Zoster without complications,,Zoster [herpes zoster],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B03,Smallpox,,Smallpox,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B04,Monkeypox,,Monkeypox,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B050,Measles complicated by encephalitis,,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B051,Measles complicated by meningitis,,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B052,Measles complicated by pneumonia,,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B053,Measles complicated by otitis media,,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B054,Measles with intestinal complications,,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0581,Measles keratitis and keratoconjunctivitis,Measles with other complications,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0589,Other measles complications,Measles with other complications,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B058,Measles with other complications,,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B059,Measles without complication,,Measles,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0600,Rubella with neurological complication unspecified,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0601,Rubella encephalitis,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0602,Rubella meningitis,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0609,Other neurological complications of rubella,Rubella with neurological complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B060,Rubella with neurological complications,,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0681,Rubella pneumonia,Rubella with other complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0682,Rubella arthritis,Rubella with other complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0689,Other rubella complications,Rubella with other complications,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B068,Rubella with other complications,,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B069,Rubella without complication,,Rubella [German measles],Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B070,Plantar wart,,Viral warts,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B078,Other viral warts,,Viral warts,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B079,Viral wart unspecified,,Viral warts,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0801,Cowpox and vaccinia not from vaccine,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0802,Orf virus disease,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0803,Pseudocowpox [milker's node],Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0804,Paravaccinia unspecified,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0809,Other orthopoxvirus infections,Other orthopoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B080,Other orthopoxvirus infections,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B081,Molluscum contagiosum,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0820,Exanthema subitum [sixth disease] unspecified,Exanthema subitum [sixth disease],Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0821,Exanthema subitum [sixth disease] due to human herpesvirus 6,Exanthema subitum [sixth disease],Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0822,Exanthema subitum [sixth disease] due to human herpesvirus 7,Exanthema subitum [sixth disease],Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B082,Exanthema subitum [sixth disease],,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B083,Erythema infectiosum [fifth disease],,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B084,Enteroviral vesicular stomatitis with exanthem,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B085,Enteroviral vesicular pharyngitis,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0860,Parapoxvirus infection unspecified,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0861,Bovine stomatitis,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0862,Sealpox,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0869,Other parapoxvirus infections,Parapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B086,Parapoxvirus infections,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0870,Yatapoxvirus infection unspecified,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0871,Tanapox virus disease,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0872,Yaba pox virus disease,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B0879,Other yatapoxvirus infections,Yatapoxvirus infections,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B087,Yatapoxvirus infections,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B088,Other specified viral infections characterized by skin and mucous membrane lesions,,Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,,Unspecified viral infection characterized by skin and mucous membrane lesions,Viral infections characterized by skin and mucous membrane lesions,Certain infectious and parasitic diseases,root
+B150,Hepatitis A with hepatic coma,,Acute hepatitis A,Viral hepatitis,Certain infectious and parasitic diseases,root
+B159,Hepatitis A without hepatic coma,,Acute hepatitis A,Viral hepatitis,Certain infectious and parasitic diseases,root
+B160,Acute hepatitis B with delta-agent with hepatic coma,,Acute hepatitis B,Viral hepatitis,Certain infectious and parasitic diseases,root
+B161,Acute hepatitis B with delta-agent without hepatic coma,,Acute hepatitis B,Viral hepatitis,Certain infectious and parasitic diseases,root
+B162,Acute hepatitis B without delta-agent with hepatic coma,,Acute hepatitis B,Viral hepatitis,Certain infectious and parasitic diseases,root
+B169,Acute hepatitis B without delta-agent and without hepatic coma,,Acute hepatitis B,Viral hepatitis,Certain infectious and parasitic diseases,root
+B170,Acute delta-(super) infection of hepatitis B carrier,,Other acute viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B1710,Acute hepatitis C without hepatic coma,Acute hepatitis C,Other acute viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B1711,Acute hepatitis C with hepatic coma,Acute hepatitis C,Other acute viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B171,Acute hepatitis C,,Other acute viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B172,Acute hepatitis E,,Other acute viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B178,Other specified acute viral hepatitis,,Other acute viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B179,Acute viral hepatitis unspecified,,Other acute viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B180,Chronic viral hepatitis B with delta-agent,,Chronic viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B181,Chronic viral hepatitis B without delta-agent,,Chronic viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B182,Chronic viral hepatitis C,,Chronic viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B188,Other chronic viral hepatitis,,Chronic viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B189,Chronic viral hepatitis unspecified,,Chronic viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B190,Unspecified viral hepatitis with hepatic coma,,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B1910,Unspecified viral hepatitis B without hepatic coma,Unspecified viral hepatitis B,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B1911,Unspecified viral hepatitis B with hepatic coma,Unspecified viral hepatitis B,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B191,Unspecified viral hepatitis B,,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B1920,Unspecified viral hepatitis C without hepatic coma,Unspecified viral hepatitis C,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B1921,Unspecified viral hepatitis C with hepatic coma,Unspecified viral hepatitis C,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B192,Unspecified viral hepatitis C,,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B199,Unspecified viral hepatitis without hepatic coma,,Unspecified viral hepatitis,Viral hepatitis,Certain infectious and parasitic diseases,root
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Human immunodeficiency virus [HIV] disease,Certain infectious and parasitic diseases,root
+B250,Cytomegaloviral pneumonitis,,Cytomegaloviral disease,Other viral diseases,Certain infectious and parasitic diseases,root
+B251,Cytomegaloviral hepatitis,,Cytomegaloviral disease,Other viral diseases,Certain infectious and parasitic diseases,root
+B252,Cytomegaloviral pancreatitis,,Cytomegaloviral disease,Other viral diseases,Certain infectious and parasitic diseases,root
+B258,Other cytomegaloviral diseases,,Cytomegaloviral disease,Other viral diseases,Certain infectious and parasitic diseases,root
+B259,Cytomegaloviral disease unspecified,,Cytomegaloviral disease,Other viral diseases,Certain infectious and parasitic diseases,root
+B260,Mumps orchitis,,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B261,Mumps meningitis,,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B262,Mumps encephalitis,,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B263,Mumps pancreatitis,,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B2681,Mumps hepatitis,Mumps with other complications,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B2682,Mumps myocarditis,Mumps with other complications,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B2683,Mumps nephritis,Mumps with other complications,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B2684,Mumps polyneuropathy,Mumps with other complications,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B2685,Mumps arthritis,Mumps with other complications,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B2689,Other mumps complications,Mumps with other complications,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B268,Mumps with other complications,,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B269,Mumps without complication,,Mumps,Other viral diseases,Certain infectious and parasitic diseases,root
+B2700,Gammaherpesviral mononucleosis without complication,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2701,Gammaherpesviral mononucleosis with polyneuropathy,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2702,Gammaherpesviral mononucleosis with meningitis,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2709,Gammaherpesviral mononucleosis with other complications,Gammaherpesviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B270,Gammaherpesviral mononucleosis,,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2710,Cytomegaloviral mononucleosis without complications,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2711,Cytomegaloviral mononucleosis with polyneuropathy,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2712,Cytomegaloviral mononucleosis with meningitis,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2719,Cytomegaloviral mononucleosis with other complication,Cytomegaloviral mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B271,Cytomegaloviral mononucleosis,,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2780,Other infectious mononucleosis without complication,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2781,Other infectious mononucleosis with polyneuropathy,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2782,Other infectious mononucleosis with meningitis,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2789,Other infectious mononucleosis with other complication,Other infectious mononucleosis,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B278,Other infectious mononucleosis,,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2790,Infectious mononucleosis unspecified without complication,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2791,Infectious mononucleosis unspecified with polyneuropathy,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2792,Infectious mononucleosis unspecified with meningitis,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B2799,Infectious mononucleosis unspecified with other complication,Infectious mononucleosis unspecified,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B279,Infectious mononucleosis unspecified,,Infectious mononucleosis,Other viral diseases,Certain infectious and parasitic diseases,root
+B300,Keratoconjunctivitis due to adenovirus,,Viral conjunctivitis,Other viral diseases,Certain infectious and parasitic diseases,root
+B301,Conjunctivitis due to adenovirus,,Viral conjunctivitis,Other viral diseases,Certain infectious and parasitic diseases,root
+B302,Viral pharyngoconjunctivitis,,Viral conjunctivitis,Other viral diseases,Certain infectious and parasitic diseases,root
+B303,Acute epidemic hemorrhagic conjunctivitis (enteroviral),,Viral conjunctivitis,Other viral diseases,Certain infectious and parasitic diseases,root
+B308,Other viral conjunctivitis,,Viral conjunctivitis,Other viral diseases,Certain infectious and parasitic diseases,root
+B309,Viral conjunctivitis unspecified,,Viral conjunctivitis,Other viral diseases,Certain infectious and parasitic diseases,root
+B330,Epidemic myalgia,,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B331,Ross River disease,,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B3320,Viral carditis unspecified,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B3321,Viral endocarditis,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B3322,Viral myocarditis,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B3323,Viral pericarditis,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B3324,Viral cardiomyopathy,Viral carditis,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B332,Viral carditis,,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B333,Retrovirus infections not elsewhere classified,,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B334,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS],,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B338,Other specified viral diseases,,Other viral diseases not elsewhere classified,Other viral diseases,Certain infectious and parasitic diseases,root
+B340,Adenovirus infection unspecified,,Viral infection of unspecified site,Other viral diseases,Certain infectious and parasitic diseases,root
+B341,Enterovirus infection unspecified,,Viral infection of unspecified site,Other viral diseases,Certain infectious and parasitic diseases,root
+B342,Coronavirus infection unspecified,,Viral infection of unspecified site,Other viral diseases,Certain infectious and parasitic diseases,root
+B343,Parvovirus infection unspecified,,Viral infection of unspecified site,Other viral diseases,Certain infectious and parasitic diseases,root
+B344,Papovavirus infection unspecified,,Viral infection of unspecified site,Other viral diseases,Certain infectious and parasitic diseases,root
+B348,Other viral infections of unspecified site,,Viral infection of unspecified site,Other viral diseases,Certain infectious and parasitic diseases,root
+B349,Viral infection unspecified,,Viral infection of unspecified site,Other viral diseases,Certain infectious and parasitic diseases,root
+B350,Tinea barbae and tinea capitis,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B351,Tinea unguium,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B352,Tinea manuum,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B353,Tinea pedis,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B354,Tinea corporis,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B355,Tinea imbricata,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B356,Tinea cruris,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B358,Other dermatophytoses,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B359,Dermatophytosis unspecified,,Dermatophytosis,Mycoses,Certain infectious and parasitic diseases,root
+B360,Pityriasis versicolor,,Other superficial mycoses,Mycoses,Certain infectious and parasitic diseases,root
+B361,Tinea nigra,,Other superficial mycoses,Mycoses,Certain infectious and parasitic diseases,root
+B362,White piedra,,Other superficial mycoses,Mycoses,Certain infectious and parasitic diseases,root
+B363,Black piedra,,Other superficial mycoses,Mycoses,Certain infectious and parasitic diseases,root
+B368,Other specified superficial mycoses,,Other superficial mycoses,Mycoses,Certain infectious and parasitic diseases,root
+B369,Superficial mycosis unspecified,,Other superficial mycoses,Mycoses,Certain infectious and parasitic diseases,root
+B370,Candidal stomatitis,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B371,Pulmonary candidiasis,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B372,Candidiasis of skin and nail,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B373,Candidiasis of vulva and vagina,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3741,Candidal cystitis and urethritis,Candidiasis of other urogenital sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3742,Candidal balanitis,Candidiasis of other urogenital sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3749,Other urogenital candidiasis,Candidiasis of other urogenital sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B374,Candidiasis of other urogenital sites,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B375,Candidal meningitis,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B376,Candidal endocarditis,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B377,Candidal sepsis,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3781,Candidal esophagitis,Candidiasis of other sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3782,Candidal enteritis,Candidiasis of other sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3783,Candidal cheilitis,Candidiasis of other sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3784,Candidal otitis externa,Candidiasis of other sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B3789,Other sites of candidiasis,Candidiasis of other sites,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B378,Candidiasis of other sites,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B379,Candidiasis unspecified,,Candidiasis,Mycoses,Certain infectious and parasitic diseases,root
+B380,Acute pulmonary coccidioidomycosis,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B381,Chronic pulmonary coccidioidomycosis,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B382,Pulmonary coccidioidomycosis unspecified,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B383,Cutaneous coccidioidomycosis,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B384,Coccidioidomycosis meningitis,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B387,Disseminated coccidioidomycosis,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B3881,Prostatic coccidioidomycosis,Other forms of coccidioidomycosis,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B3889,Other forms of coccidioidomycosis,Other forms of coccidioidomycosis,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B388,Other forms of coccidioidomycosis,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B389,Coccidioidomycosis unspecified,,Coccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B390,Acute pulmonary histoplasmosis capsulati,,Histoplasmosis,Mycoses,Certain infectious and parasitic diseases,root
+B391,Chronic pulmonary histoplasmosis capsulati,,Histoplasmosis,Mycoses,Certain infectious and parasitic diseases,root
+B392,Pulmonary histoplasmosis capsulati unspecified,,Histoplasmosis,Mycoses,Certain infectious and parasitic diseases,root
+B393,Disseminated histoplasmosis capsulati,,Histoplasmosis,Mycoses,Certain infectious and parasitic diseases,root
+B394,Histoplasmosis capsulati unspecified,,Histoplasmosis,Mycoses,Certain infectious and parasitic diseases,root
+B395,Histoplasmosis duboisii,,Histoplasmosis,Mycoses,Certain infectious and parasitic diseases,root
+B399,Histoplasmosis unspecified,,Histoplasmosis,Mycoses,Certain infectious and parasitic diseases,root
+B400,Acute pulmonary blastomycosis,,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B401,Chronic pulmonary blastomycosis,,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B402,Pulmonary blastomycosis unspecified,,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B403,Cutaneous blastomycosis,,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B407,Disseminated blastomycosis,,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B4081,Blastomycotic meningoencephalitis,Other forms of blastomycosis,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B4089,Other forms of blastomycosis,Other forms of blastomycosis,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B408,Other forms of blastomycosis,,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B409,Blastomycosis unspecified,,Blastomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B410,Pulmonary paracoccidioidomycosis,,Paracoccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B417,Disseminated paracoccidioidomycosis,,Paracoccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B418,Other forms of paracoccidioidomycosis,,Paracoccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B419,Paracoccidioidomycosis unspecified,,Paracoccidioidomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B420,Pulmonary sporotrichosis,,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B421,Lymphocutaneous sporotrichosis,,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B427,Disseminated sporotrichosis,,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B4281,Cerebral sporotrichosis,Other forms of sporotrichosis,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B4282,Sporotrichosis arthritis,Other forms of sporotrichosis,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B4289,Other forms of sporotrichosis,Other forms of sporotrichosis,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B428,Other forms of sporotrichosis,,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B429,Sporotrichosis unspecified,,Sporotrichosis,Mycoses,Certain infectious and parasitic diseases,root
+B430,Cutaneous chromomycosis,,Chromomycosis and phaeomycotic abscess,Mycoses,Certain infectious and parasitic diseases,root
+B431,Pheomycotic brain abscess,,Chromomycosis and phaeomycotic abscess,Mycoses,Certain infectious and parasitic diseases,root
+B432,Subcutaneous pheomycotic abscess and cyst,,Chromomycosis and phaeomycotic abscess,Mycoses,Certain infectious and parasitic diseases,root
+B438,Other forms of chromomycosis,,Chromomycosis and phaeomycotic abscess,Mycoses,Certain infectious and parasitic diseases,root
+B439,Chromomycosis unspecified,,Chromomycosis and phaeomycotic abscess,Mycoses,Certain infectious and parasitic diseases,root
+B440,Invasive pulmonary aspergillosis,,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B441,Other pulmonary aspergillosis,,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B442,Tonsillar aspergillosis,,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B447,Disseminated aspergillosis,,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B4481,Allergic bronchopulmonary aspergillosis,Other forms of aspergillosis,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B4489,Other forms of aspergillosis,Other forms of aspergillosis,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B448,Other forms of aspergillosis,,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B449,Aspergillosis unspecified,,Aspergillosis,Mycoses,Certain infectious and parasitic diseases,root
+B450,Pulmonary cryptococcosis,,Cryptococcosis,Mycoses,Certain infectious and parasitic diseases,root
+B451,Cerebral cryptococcosis,,Cryptococcosis,Mycoses,Certain infectious and parasitic diseases,root
+B452,Cutaneous cryptococcosis,,Cryptococcosis,Mycoses,Certain infectious and parasitic diseases,root
+B453,Osseous cryptococcosis,,Cryptococcosis,Mycoses,Certain infectious and parasitic diseases,root
+B457,Disseminated cryptococcosis,,Cryptococcosis,Mycoses,Certain infectious and parasitic diseases,root
+B458,Other forms of cryptococcosis,,Cryptococcosis,Mycoses,Certain infectious and parasitic diseases,root
+B459,Cryptococcosis unspecified,,Cryptococcosis,Mycoses,Certain infectious and parasitic diseases,root
+B460,Pulmonary mucormycosis,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B461,Rhinocerebral mucormycosis,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B462,Gastrointestinal mucormycosis,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B463,Cutaneous mucormycosis,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B464,Disseminated mucormycosis,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B465,Mucormycosis unspecified,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B468,Other zygomycoses,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B469,Zygomycosis unspecified,,Zygomycosis,Mycoses,Certain infectious and parasitic diseases,root
+B470,Eumycetoma,,Mycetoma,Mycoses,Certain infectious and parasitic diseases,root
+B471,Actinomycetoma,,Mycetoma,Mycoses,Certain infectious and parasitic diseases,root
+B479,Mycetoma unspecified,,Mycetoma,Mycoses,Certain infectious and parasitic diseases,root
+B480,Lobomycosis,,Other mycoses not elsewhere classified,Mycoses,Certain infectious and parasitic diseases,root
+B481,Rhinosporidiosis,,Other mycoses not elsewhere classified,Mycoses,Certain infectious and parasitic diseases,root
+B482,Allescheriasis,,Other mycoses not elsewhere classified,Mycoses,Certain infectious and parasitic diseases,root
+B483,Geotrichosis,,Other mycoses not elsewhere classified,Mycoses,Certain infectious and parasitic diseases,root
+B484,Penicillosis,,Other mycoses not elsewhere classified,Mycoses,Certain infectious and parasitic diseases,root
+B488,Other specified mycoses,,Other mycoses not elsewhere classified,Mycoses,Certain infectious and parasitic diseases,root
+B49,Unspecified mycosis,,Unspecified mycosis,Mycoses,Certain infectious and parasitic diseases,root
+B500,Plasmodium falciparum malaria with cerebral complications,,Plasmodium falciparum malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B508,Other severe and complicated Plasmodium falciparum malaria,,Plasmodium falciparum malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B509,Plasmodium falciparum malaria unspecified,,Plasmodium falciparum malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B510,Plasmodium vivax malaria with rupture of spleen,,Plasmodium vivax malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B518,Plasmodium vivax malaria with other complications,,Plasmodium vivax malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B519,Plasmodium vivax malaria without complication,,Plasmodium vivax malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B520,Plasmodium malariae malaria with nephropathy,,Plasmodium malariae malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B528,Plasmodium malariae malaria with other complications,,Plasmodium malariae malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B529,Plasmodium malariae malaria without complication,,Plasmodium malariae malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B530,Plasmodium ovale malaria,,Other parasitologically confirmed malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B531,Malaria due to simian plasmodia,,Other parasitologically confirmed malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B538,Other malaria not elsewhere classified,,Other parasitologically confirmed malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B54,Unspecified malaria,,Unspecified malaria,Protozoal diseases,Certain infectious and parasitic diseases,root
+B550,Visceral leishmaniasis,,Leishmaniasis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B551,Cutaneous leishmaniasis,,Leishmaniasis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B552,Mucocutaneous leishmaniasis,,Leishmaniasis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B559,Leishmaniasis unspecified,,Leishmaniasis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B560,Gambiense trypanosomiasis,,African trypanosomiasis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B561,Rhodesiense trypanosomiasis,,African trypanosomiasis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B569,African trypanosomiasis unspecified,,African trypanosomiasis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B570,Acute Chagas' disease with heart involvement,,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B571,Acute Chagas' disease without heart involvement,,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B572,Chagas' disease (chronic) with heart involvement,,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5730,Chagas' disease with digestive system involvement unspecified,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5731,Megaesophagus in Chagas' disease,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5732,Megacolon in Chagas' disease,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5739,Other digestive system involvement in Chagas' disease,Chagas' disease (chronic) with digestive system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B573,Chagas' disease (chronic) with digestive system involvement,,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5740,Chagas' disease with nervous system involvement unspecified,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5741,Meningitis in Chagas' disease,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5742,Meningoencephalitis in Chagas' disease,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5749,Other nervous system involvement in Chagas' disease,Chagas' disease (chronic) with nervous system involvement,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B574,Chagas' disease (chronic) with nervous system involvement,,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B575,Chagas' disease (chronic) with other organ involvement,,Chagas disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5800,Toxoplasma oculopathy unspecified,Toxoplasma oculopathy,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5801,Toxoplasma chorioretinitis,Toxoplasma oculopathy,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5809,Other toxoplasma oculopathy,Toxoplasma oculopathy,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B580,Toxoplasma oculopathy,,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B581,Toxoplasma hepatitis,,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B582,Toxoplasma meningoencephalitis,,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B583,Pulmonary toxoplasmosis,,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5881,Toxoplasma myocarditis,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5882,Toxoplasma myositis,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5883,Toxoplasma tubulo-interstitial nephropathy,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B5889,Toxoplasmosis with other organ involvement,Toxoplasmosis with other organ involvement,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B588,Toxoplasmosis with other organ involvement,,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B589,Toxoplasmosis unspecified,,Toxoplasmosis,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6000,Babesiosis unspecified,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6001,Babesiosis due to Babesia microti,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6002,Babesiosis due to Babesia duncani,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6003,Babesiosis due to Babesia divergens,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6009,Other babesiosis,Babesiosis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B600,Babesiosis,,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6010,Acanthamebiasis unspecified,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6011,Meningoencephalitis due to Acanthamoeba (culbertsoni),Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6012,Conjunctivitis due to Acanthamoeba,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6013,Keratoconjunctivitis due to Acanthamoeba,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B6019,Other acanthamebic disease,Acanthamebiasis,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B601,Acanthamebiasis,,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B602,Naegleriasis,,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B608,Other specified protozoal diseases,,Other protozoal diseases not elsewhere classified,Protozoal diseases,Certain infectious and parasitic diseases,root
+B64,Unspecified protozoal disease,,Unspecified protozoal disease,Protozoal diseases,Certain infectious and parasitic diseases,root
+B650,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],,Schistosomiasis [bilharziasis],Helminthiases,Certain infectious and parasitic diseases,root
+B651,Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis],,Schistosomiasis [bilharziasis],Helminthiases,Certain infectious and parasitic diseases,root
+B652,Schistosomiasis due to Schistosoma japonicum,,Schistosomiasis [bilharziasis],Helminthiases,Certain infectious and parasitic diseases,root
+B653,Cercarial dermatitis,,Schistosomiasis [bilharziasis],Helminthiases,Certain infectious and parasitic diseases,root
+B658,Other schistosomiasis,,Schistosomiasis [bilharziasis],Helminthiases,Certain infectious and parasitic diseases,root
+B659,Schistosomiasis unspecified,,Schistosomiasis [bilharziasis],Helminthiases,Certain infectious and parasitic diseases,root
+B660,Opisthorchiasis,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B661,Clonorchiasis,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B662,Dicroceliasis,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B663,Fascioliasis,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B664,Paragonimiasis,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B665,Fasciolopsiasis,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B668,Other specified fluke infections,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B669,Fluke infection unspecified,,Other fluke infections,Helminthiases,Certain infectious and parasitic diseases,root
+B670,Echinococcus granulosus infection of liver,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B671,Echinococcus granulosus infection of lung,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B672,Echinococcus granulosus infection of bone,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6731,Echinococcus granulosus infection thyroid gland,Echinococcus granulosus infection other and multiple sites,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6732,Echinococcus granulosus infection multiple sites,Echinococcus granulosus infection other and multiple sites,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6739,Echinococcus granulosus infection other sites,Echinococcus granulosus infection other and multiple sites,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B673,Echinococcus granulosus infection other and multiple sites,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B674,Echinococcus granulosus infection unspecified,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B675,Echinococcus multilocularis infection of liver,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6761,Echinococcus multilocularis infection multiple sites,Echinococcus multilocularis infection other and multiple sites,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6769,Echinococcus multilocularis infection other sites,Echinococcus multilocularis infection other and multiple sites,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B676,Echinococcus multilocularis infection other and multiple sites,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B677,Echinococcus multilocularis infection unspecified,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B678,Echinococcosis unspecified of liver,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6790,Echinococcosis unspecified,Echinococcosis other and unspecified,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6799,Other echinococcosis,Echinococcosis other and unspecified,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B679,Echinococcosis other and unspecified,,Echinococcosis,Helminthiases,Certain infectious and parasitic diseases,root
+B680,Taenia solium taeniasis,,Taeniasis,Helminthiases,Certain infectious and parasitic diseases,root
+B681,Taenia saginata taeniasis,,Taeniasis,Helminthiases,Certain infectious and parasitic diseases,root
+B689,Taeniasis unspecified,,Taeniasis,Helminthiases,Certain infectious and parasitic diseases,root
+B690,Cysticercosis of central nervous system,,Cysticercosis,Helminthiases,Certain infectious and parasitic diseases,root
+B691,Cysticercosis of eye,,Cysticercosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6981,Myositis in cysticercosis,Cysticercosis of other sites,Cysticercosis,Helminthiases,Certain infectious and parasitic diseases,root
+B6989,Cysticercosis of other sites,Cysticercosis of other sites,Cysticercosis,Helminthiases,Certain infectious and parasitic diseases,root
+B698,Cysticercosis of other sites,,Cysticercosis,Helminthiases,Certain infectious and parasitic diseases,root
+B699,Cysticercosis unspecified,,Cysticercosis,Helminthiases,Certain infectious and parasitic diseases,root
+B700,Diphyllobothriasis,,Diphyllobothriasis and sparganosis,Helminthiases,Certain infectious and parasitic diseases,root
+B701,Sparganosis,,Diphyllobothriasis and sparganosis,Helminthiases,Certain infectious and parasitic diseases,root
+B710,Hymenolepiasis,,Other cestode infections,Helminthiases,Certain infectious and parasitic diseases,root
+B711,Dipylidiasis,,Other cestode infections,Helminthiases,Certain infectious and parasitic diseases,root
+B718,Other specified cestode infections,,Other cestode infections,Helminthiases,Certain infectious and parasitic diseases,root
+B719,Cestode infection unspecified,,Other cestode infections,Helminthiases,Certain infectious and parasitic diseases,root
+B72,Dracunculiasis,,Dracunculiasis,Helminthiases,Certain infectious and parasitic diseases,root
+B7300,Onchocerciasis with eye involvement unspecified,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases,Certain infectious and parasitic diseases,root
+B7301,Onchocerciasis with endophthalmitis,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases,Certain infectious and parasitic diseases,root
+B7302,Onchocerciasis with glaucoma,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases,Certain infectious and parasitic diseases,root
+B7309,Onchocerciasis with other eye involvement,Onchocerciasis with eye disease,Onchocerciasis,Helminthiases,Certain infectious and parasitic diseases,root
+B730,Onchocerciasis with eye disease,,Onchocerciasis,Helminthiases,Certain infectious and parasitic diseases,root
+B731,Onchocerciasis without eye disease,,Onchocerciasis,Helminthiases,Certain infectious and parasitic diseases,root
+B740,Filariasis due to Wuchereria bancrofti,,Filariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B741,Filariasis due to Brugia malayi,,Filariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B742,Filariasis due to Brugia timori,,Filariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B743,Loiasis,,Filariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B744,Mansonelliasis,,Filariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B748,Other filariases,,Filariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B749,Filariasis unspecified,,Filariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B75,Trichinellosis,,Trichinellosis,Helminthiases,Certain infectious and parasitic diseases,root
+B760,Ancylostomiasis,,Hookworm diseases,Helminthiases,Certain infectious and parasitic diseases,root
+B761,Necatoriasis,,Hookworm diseases,Helminthiases,Certain infectious and parasitic diseases,root
+B768,Other hookworm diseases,,Hookworm diseases,Helminthiases,Certain infectious and parasitic diseases,root
+B769,Hookworm disease unspecified,,Hookworm diseases,Helminthiases,Certain infectious and parasitic diseases,root
+B770,Ascariasis with intestinal complications,,Ascariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B7781,Ascariasis pneumonia,Ascariasis with other complications,Ascariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B7789,Ascariasis with other complications,Ascariasis with other complications,Ascariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B778,Ascariasis with other complications,,Ascariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B779,Ascariasis unspecified,,Ascariasis,Helminthiases,Certain infectious and parasitic diseases,root
+B780,Intestinal strongyloidiasis,,Strongyloidiasis,Helminthiases,Certain infectious and parasitic diseases,root
+B781,Cutaneous strongyloidiasis,,Strongyloidiasis,Helminthiases,Certain infectious and parasitic diseases,root
+B787,Disseminated strongyloidiasis,,Strongyloidiasis,Helminthiases,Certain infectious and parasitic diseases,root
+B789,Strongyloidiasis unspecified,,Strongyloidiasis,Helminthiases,Certain infectious and parasitic diseases,root
+B79,Trichuriasis,,Trichuriasis,Helminthiases,Certain infectious and parasitic diseases,root
+B80,Enterobiasis,,Enterobiasis,Helminthiases,Certain infectious and parasitic diseases,root
+B810,Anisakiasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases,Certain infectious and parasitic diseases,root
+B811,Intestinal capillariasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases,Certain infectious and parasitic diseases,root
+B812,Trichostrongyliasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases,Certain infectious and parasitic diseases,root
+B813,Intestinal angiostrongyliasis,,Other intestinal helminthiases not elsewhere classified,Helminthiases,Certain infectious and parasitic diseases,root
+B814,Mixed intestinal helminthiases,,Other intestinal helminthiases not elsewhere classified,Helminthiases,Certain infectious and parasitic diseases,root
+B818,Other specified intestinal helminthiases,,Other intestinal helminthiases not elsewhere classified,Helminthiases,Certain infectious and parasitic diseases,root
+B820,Intestinal helminthiasis unspecified,,Unspecified intestinal parasitism,Helminthiases,Certain infectious and parasitic diseases,root
+B829,Intestinal parasitism unspecified,,Unspecified intestinal parasitism,Helminthiases,Certain infectious and parasitic diseases,root
+B830,Visceral larva migrans,,Other helminthiases,Helminthiases,Certain infectious and parasitic diseases,root
+B831,Gnathostomiasis,,Other helminthiases,Helminthiases,Certain infectious and parasitic diseases,root
+B832,Angiostrongyliasis due to Parastrongylus cantonensis,,Other helminthiases,Helminthiases,Certain infectious and parasitic diseases,root
+B833,Syngamiasis,,Other helminthiases,Helminthiases,Certain infectious and parasitic diseases,root
+B834,Internal hirudiniasis,,Other helminthiases,Helminthiases,Certain infectious and parasitic diseases,root
+B838,Other specified helminthiases,,Other helminthiases,Helminthiases,Certain infectious and parasitic diseases,root
+B839,Helminthiasis unspecified,,Other helminthiases,Helminthiases,Certain infectious and parasitic diseases,root
+B850,Pediculosis due to Pediculus humanus capitis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B851,Pediculosis due to Pediculus humanus corporis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B852,Pediculosis unspecified,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B853,Phthiriasis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B854,Mixed pediculosis and phthiriasis,,Pediculosis and phthiriasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B86,Scabies,,Scabies,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B870,Cutaneous myiasis,,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B871,Wound myiasis,,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B872,Ocular myiasis,,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B873,Nasopharyngeal myiasis,,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B874,Aural myiasis,,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B8781,Genitourinary myiasis,Myiasis of other sites,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B8782,Intestinal myiasis,Myiasis of other sites,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B8789,Myiasis of other sites,Myiasis of other sites,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B878,Myiasis of other sites,,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B879,Myiasis unspecified,,Myiasis,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B880,Other acariasis,,Other infestations,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B881,Tungiasis [sandflea infestation],,Other infestations,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B882,Other arthropod infestations,,Other infestations,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B883,External hirudiniasis,,Other infestations,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B888,Other specified infestations,,Other infestations,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B889,Infestation unspecified,,Other infestations,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B89,Unspecified parasitic disease,,Unspecified parasitic disease,Pediculosis acariasis and other infestations,Certain infectious and parasitic diseases,root
+B900,Sequelae of central nervous system tuberculosis,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B901,Sequelae of genitourinary tuberculosis,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B902,Sequelae of tuberculosis of bones and joints,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B908,Sequelae of tuberculosis of other organs,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B909,Sequelae of respiratory and unspecified tuberculosis,,Sequelae of tuberculosis,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B91,Sequelae of poliomyelitis,,Sequelae of poliomyelitis,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B92,Sequelae of leprosy,,Sequelae of leprosy,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B940,Sequelae of trachoma,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B941,Sequelae of viral encephalitis,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B942,Sequelae of viral hepatitis,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B948,Sequelae of other specified infectious and parasitic diseases,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B949,Sequelae of unspecified infectious and parasitic disease,,Sequelae of other and unspecified infectious and parasitic diseases,Sequelae of infectious and parasitic diseases,Certain infectious and parasitic diseases,root
+B950,Streptococcus group A as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B951,Streptococcus group B as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B952,Enterococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B953,Streptococcus pneumoniae as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B954,Other streptococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B955,Unspecified streptococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9561,Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere,Staphylococcus aureus as the cause of diseases classified elsewhere,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9562,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,Staphylococcus aureus as the cause of diseases classified elsewhere,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B956,Staphylococcus aureus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B957,Other staphylococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B958,Unspecified staphylococcus as the cause of diseases classified elsewhere,,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B960,Mycoplasma pneumoniae [M. pneumoniae] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B961,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9620,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9621,Shiga toxin-producing Escherichia coli [E. coli] [STEC] O157 as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9622,Other specified Shiga toxin-producing Escherichia coli [E. coli] [STEC] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9623,Unspecified Shiga toxin-producing Escherichia coli [E. coli] [STEC] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9629,Other Escherichia coli [E. coli] as the cause of diseases classified elsewhere,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B962,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B963,Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B964,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B965,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B966,Bacteroides fragilis [B. fragilis] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B967,Clostridium perfringens [C. perfringens] as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9681,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9682,Vibrio vulnificus as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9689,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified elsewhere,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B968,Other specified bacterial agents as the cause of diseases classified elsewhere,,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B970,Adenovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9710,Unspecified enterovirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9711,Coxsackievirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9712,Echovirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9719,Other enterovirus as the cause of diseases classified elsewhere,Enterovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B971,Enterovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9721,SARS-associated coronavirus as the cause of diseases classified elsewhere,Coronavirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9729,Other coronavirus as the cause of diseases classified elsewhere,Coronavirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B972,Coronavirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9730,Unspecified retrovirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9731,Lentivirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9732,Oncovirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9733,Human T-cell lymphotrophic virus type I [HTLV-I] as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9734,Human T-cell lymphotrophic virus type II [HTLV-II] as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9735,Human immunodeficiency virus type 2 [HIV 2] as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9739,Other retrovirus as the cause of diseases classified elsewhere,Retrovirus as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B973,Retrovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B974,Respiratory syncytial virus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B975,Reovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B976,Parvovirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B977,Papillomavirus as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9781,Human metapneumovirus as the cause of diseases classified elsewhere,Other viral agents as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B9789,Other viral agents as the cause of diseases classified elsewhere,Other viral agents as the cause of diseases classified elsewhere,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B978,Other viral agents as the cause of diseases classified elsewhere,,Viral agents as the cause of diseases classified to other chapters,Bacterial and viral infectious agents,Certain infectious and parasitic diseases,root
+B998,Other infectious disease,,Other and unspecified infectious diseases,Other infectious diseases,Certain infectious and parasitic diseases,root
+B999,Unspecified infectious disease,,Other and unspecified infectious diseases,Other infectious diseases,Certain infectious and parasitic diseases,root

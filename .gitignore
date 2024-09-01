@@ -1,0 +1,15 @@
+/.venv
+/jibalamy-pymedtermino-80238d0f2091
+/examples
+/data/inputs/
+/data/mapping_*
+/data/query_ext
+/data/similar_terms/
+/utils/__pycache__
+/results
+pym.sqlite3
+pym.sqlite3-journal
+*.ipynb
+scripts.sh
+drawing.svg
+alt_mapping.svg
