@@ -21,6 +21,8 @@ matplotlib = "*"
 python-levenshtein = "*"
 datasets = "*"
 accelerate = "*"
+setuptools = "*"
+strsimpy = "*"
 
 [dev-packages]
 

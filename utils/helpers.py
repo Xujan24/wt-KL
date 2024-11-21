@@ -8,6 +8,8 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from ordered_set import OrderedSet
 import math
+from itertools import chain, compress
+from strsimpy.levenshtein import Levenshtein
 
 STOPWORDS = list(set(stopwords.words('english')))
 
@@ -117,15 +119,33 @@ def gen_paraphrases(
     return res
 
 def get_similar_terms(x: str, model, tokenizer, device, n: int = 15) -> List[str]:
-    """Fetches similar terms using the code description alone.
+    """Fetches similar terms using the code description.
     """
-    similar_terms = []
-    similar_snomed_concepts = [concepts.term.lower().replace('(disorder)', '').strip() for concepts in SNOMEDCT.search(f'{x} (disorder)')]
-    similar_snomed_concepts = list(set(similar_snomed_concepts))
-    similar_terms = [x, *similar_snomed_concepts]
-    similar_terms = list(set(similar_terms))
+    levenshtein = Levenshtein()
+    snomedct_related_concepts = SNOMEDCT.search(f'{x} (disorder)')
+    concept_terms = [concept.term.lower().replace('(disorder)', '').strip() for concept in snomedct_related_concepts]
+    concept_isa_terms = list(chain.from_iterable([concept.terms for concept in snomedct_related_concepts]))
+    concept_isa_terms = [term.lower().replace('(disorder)', '').strip() for term in concept_isa_terms]
 
-    del similar_snomed_concepts
+    similar_terms = list(set([*concept_terms, *concept_isa_terms]))
+
+    del snomedct_related_concepts, concept_terms, concept_isa_terms
+
+    if len(similar_terms) > n-1:
+        lev_dists = np.array([levenshtein.distance(x, y) for y in similar_terms])
+
+        ## we want to inforce a minimum levenshtein distance the closest terms should be
+        ## in this work we set it in proportion to the length of the code description
+        ## it should be atleast len(code_description) / 2
+        mask = lev_dists > math.floor(len(word_tokenize(x)) / 2)
+        lev_dists = lev_dists[mask]
+        lev_dists = np.argsort(lev_dists[:n-1])
+        similar_terms = list(compress(similar_terms, mask))
+
+        similar_terms = [similar_terms[idx] for idx in lev_dists]
+    
+    ## add the original code description to the list
+    similar_terms = [x, *similar_terms]
 
     if len(similar_terms) < n:
         n_req = n - len(similar_terms)

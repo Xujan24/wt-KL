@@ -13,17 +13,12 @@ from tqdm import tqdm
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("Script to generate embeddings for ICD codes.")
     parser.add_argument("--input", type=str, help="Path to .csv file")
-    parser.add_argument("--use_similar_terms", help="Whether to use similar terms or not", action="store_true")
-    parser.add_argument("--similar_terms_only", help="Whether to use only similar terms or not", action="store_true")
-    parser.add_argument("--local_similar_terms", action="store_true", help="Whether to use local similar terms or create one using SNOMEDCT")
-    parser.add_argument("--model_ver", help="Version of the pretrained model", type=str, default="base")
-    parser.add_argument("--d", type=int, help="if --use_similar_terms set to True, then number of similar terms for each code")
-    parser.add_argument("--save_similar_terms", help="if --use_similar_terms is set to True then whether to save the similar terms or not", action="store_true")
+    parser.add_argument("--use-similar-terms", help="Whether to use similar terms or not", action="store_true")
+    parser.add_argument("--model-id", help="Pre-trained model id", type=str, default="all-mpnet-base-v1")
+    parser.add_argument("--d", type=int, help="if --use-similar-terms set to True, then number of similar terms for each code")
     args = parser.parse_args()
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
-
-    model_id = 'all-MiniLM-L6-v2' if args.model_ver == 'base' else f'./examples/models/all-MiniLM-L6-v2/final/{args.model_ver}'
 
     if args.input is None:
         raise ValueError("--input and --output arguments are required.")
@@ -46,28 +41,18 @@ if __name__ == "__main__":
 
     tqdm.write(f"Extracting (or Generating) terms (or similar terms) for {basename}...")
     if args.use_similar_terms:
-        if args.local_similar_terms:
-            terms = load_from_pkl(f'./data/similar_terms/{basename}-terms-50.pkl')
-        else:
-            ## load pretrained model and tokenizer for generating paraphrases when required
-            tokenizer = AutoTokenizer.from_pretrained("humarin/chatgpt_paraphraser_on_T5_base")
-            model = AutoModelForSeq2SeqLM.from_pretrained("humarin/chatgpt_paraphraser_on_T5_base").to(device)
+        ## load pretrained model and tokenizer for generating paraphrases when required
+        tokenizer = AutoTokenizer.from_pretrained("humarin/chatgpt_paraphraser_on_T5_base")
+        model = AutoModelForSeq2SeqLM.from_pretrained("humarin/chatgpt_paraphraser_on_T5_base").to(device)
+        
+        for i in tqdm(range(len(df))):
+            code = df.iloc[i, 0]
+            code_desc = df.iloc[i, 1].lower()
             
-            for i in tqdm(range(len(df))):
-                code = df.iloc[i, 0]
-                code_desc = df.iloc[i, 1].lower()
-                
-                terms[code] = get_similar_terms(x = code_desc, n = args.d, model=model, tokenizer=tokenizer, device=device)
+            terms[code] = get_similar_terms(x = code_desc, n = args.d, model=model, tokenizer=tokenizer, device=device)
 
-            if args.save_similar_terms:
-                save_dir = './data/similar_terms'
-                if not os.path.exists(save_dir):
-                    os.mkdir(save_dir)
-
-                save_to_pkl(terms, f'{save_dir}/{basename}-terms-{args.d}.pkl')
-
-            del tokenizer, model
-            torch.cuda.empty_cache()
+        del tokenizer, model
+        torch.cuda.empty_cache()
 
     else:
         for i in tqdm(range(len(df))):
@@ -80,7 +65,7 @@ if __name__ == "__main__":
         sys.exit(0)
     
     ## iniitalize the sentence transformer model
-    model_st = SentenceTransformer(model_id)
+    model_st = SentenceTransformer(args.model_id)
     model_st.eval()
 
     terms_d = {}

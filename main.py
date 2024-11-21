@@ -157,8 +157,7 @@ if __name__ == "__main__":
     parser.add_argument("--src", type=str, help="path to source system e.g. ./data/icd9cm.csv")
     parser.add_argument("--tgt", type=str, help="path to target system e.g. ./data/icd10cm.csv")
     parser.add_argument("--d", type=int, help="number of similar terms used to calculate the parameters of the distributions")
-    parser.add_argument("--model_ver", type=str, default='base', help="model version to use for sentence embeddings")
-    parser.add_argument("--compute_statistics", action='store_true', help="if set, will compute statistics for the given source and target systems")
+    parser.add_argument("--compute-statistics", action='store_true', help="if set, will compute statistics for the given source and target systems")
     args = parser.parse_args()
 
     if not args.src or not args.tgt or not args.d:
@@ -253,9 +252,8 @@ if __name__ == "__main__":
                             gt_scores=gt_scores
                         )
 
-            accuracy = round(correct / (len(source_df) - not_found), 4)
             hs_score = round(score / (len(source_df) - not_found), 4)
-            out_stats_file.write(f'Top-{k} accuracy: \t {accuracy}, [{correct} | {hs_score} | {not_found} | {len(source_df)}] \n')
+            out_stats_file.write(f'Top-{k} score: \t {hs_score}, [{correct} | {not_found} | {len(source_df)}] \n')
 
 
     ## KL divergence based mapping
@@ -279,9 +277,8 @@ if __name__ == "__main__":
                             gt_scores=gt_scores
                         )
 
-            accuracy = round(correct / (len(source_df) - not_found), 4)
             hs_score = round(score / (len(source_df) - not_found), 4)
-            out_stats_file.write(f'Top-{k} accuracy: \t {accuracy}, [{correct} | {hs_score} | {not_found} | {len(source_df)}] \n')
+            out_stats_file.write(f'Top-{k} score: \t {hs_score}, [{correct} | {not_found} | {len(source_df)}] \n')
 
     ## weighted KL divergence based mapping
     tqdm.write('Generating maps using Weighted KL divergence...')
@@ -304,9 +301,8 @@ if __name__ == "__main__":
                             gt_scores=gt_scores
                         )
 
-            accuracy = round(correct / (len(source_df) - not_found), 4)
             hs_score = round(score / (len(source_df) - not_found), 4)
-            out_stats_file.write(f'Top-{k} accuracy: \t {accuracy}, [{correct} | {hs_score} | {not_found} | {len(source_df)}] \n')
+            out_stats_file.write(f'Top-{k} score: \t {hs_score}, [{correct} | {not_found} | {len(source_df)}] \n')
 
     if args.compute_statistics:
         out_stats_file.close()
