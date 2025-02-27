@@ -24,3 +24,6 @@ To generate the maps, use the `main.py` script.
 python main.py --src "./data/icd9cm.csv" --tgt "./data/icd10cm.csv" --d 30 --compute-statistics
 ```
 
+## Citation
+*coming soon*
+
