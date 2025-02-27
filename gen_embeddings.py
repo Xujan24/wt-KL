@@ -60,9 +60,6 @@ if __name__ == "__main__":
             code_desc = df.iloc[i, 1].lower()
 
             terms[code] = code_desc
-
-    if args.similar_terms_only:
-        sys.exit(0)
     
     ## iniitalize the sentence transformer model
     model_st = SentenceTransformer(args.model_id)
@@ -92,7 +89,7 @@ if __name__ == "__main__":
     torch.cuda.empty_cache()
 
     ## prepare the file to save the embeddings
-    out_dir = './data/inputs' if args.model_ver == 'base' else f'./data/inputs/{args.model_ver}'
+    out_dir = './data/inputs'
 
     if not os.path.exists(out_dir):
         os.mkdir(out_dir)

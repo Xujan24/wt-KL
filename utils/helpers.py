@@ -137,10 +137,10 @@ def get_similar_terms(x: str, model, tokenizer, device, n: int = 15) -> List[str
         ## we want to inforce a minimum levenshtein distance the closest terms should be
         ## in this work we set it in proportion to the length of the code description
         ## it should be atleast len(code_description) / 2
-        mask = lev_dists > math.floor(len(word_tokenize(x)) / 2)
-        lev_dists = lev_dists[mask]
+        # mask = lev_dists > math.floor(len(word_tokenize(x)) / 2)
+        # lev_dists = lev_dists[mask]
         lev_dists = np.argsort(lev_dists[:n-1])
-        similar_terms = list(compress(similar_terms, mask))
+        # similar_terms = list(compress(similar_terms, mask))
 
         similar_terms = [similar_terms[idx] for idx in lev_dists]
     

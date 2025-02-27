@@ -182,7 +182,7 @@ if __name__ == "__main__":
         gt_dict = load_from_pkl(gt_path)
     
     ## load source and target code description embeddings, used to calculate the cosine similarity
-    input_dir = './data/inputs' if args.model_ver == 'base' else f'./data/inputs/{args.model_ver}'
+    input_dir = './data/inputs'
     src_emb_path = os.path.join(input_dir, f'{src_basename}-emb.pkl')
     tgt_emb_path = os.path.join(input_dir, f'{tgt_basename}-emb.pkl')
 
@@ -214,12 +214,8 @@ if __name__ == "__main__":
 
     if not os.path.exists(results_dir):
         os.mkdir(results_dir)
-
-    out_dir = os.path.join(results_dir, 'default') if args.model_ver == 'base' else os.path.join(results_dir, args.model_ver)
-    if not os.path.exists(out_dir):
-        os.mkdir(out_dir)
         
-    outfile_path = os.path.join(out_dir, f'{src_basename}_{tgt_basename}')
+    outfile_path = os.path.join(results_dir, f'{src_basename}_{tgt_basename}')
 
     if not os.path.exists(outfile_path):
         os.mkdir(outfile_path)
