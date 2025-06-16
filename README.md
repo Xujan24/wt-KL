@@ -3,7 +3,7 @@
 ## Abstract
 Mapping clinical classification systems, like the International Classification of Disease (ICD) across different versions and other external clinical classifications systems, is challenging and often done manually by trained professionals. Among others, variation in the code descriptions to describe the same clinical condition in different versions poses a unique challenge to implementing automated mapping systems. We call this *data uncertainty*. Existing lexical-based methods attempt to solve this problem by generating alternative terms using synonyms. This work addresses the data uncertainty by learning a *probabilistic embedding* for each code description using similar terms and paraphrases. A valid code pair must exhibit proximity in the embedding space and have a comparable distribution. Additionally, we propose a new evaluation metric that considers the hierarchical structure of ICD to evaluate the performance of an automated mapping system. We demonstrate the effectiveness of our approach by mapping ICD-9-CM (Clinical Modification) and ICD-10-CM, ICD-10-AM (Australian Modification) and ICD-11 in both directions.
 
-[Paper Link](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_23)
+[Paper Link](https://rdcu.be/eq62S)
 
 ## Usage
 To compute the *Hierarchical Similarity Score* use the `compute_scores.py` script.
